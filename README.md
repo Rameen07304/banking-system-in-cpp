@@ -4,7 +4,7 @@
 #Banking sytem includes functions:
 #"Add account" which creates an account
 #"Delete account" which deletes an existing account
-#"Withdraw mone" it whithdraws the money from existing account
+#"Withdraw money" it whithdraws the money from existing account
 #"Deposit money" it deposits money in the existing account
 #"Check Account Balance" it check balnce in existing account
 
